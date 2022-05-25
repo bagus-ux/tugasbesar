@@ -3,18 +3,46 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/tubesprogmob/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.132" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/tubesprogmob/app/src/main/res/drawable/color.xml" value="0.132" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/tubesprogmob/app/src/main/res/drawable/creature_foreground.xml" value="0.132" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/tubesprogmob/app/src/main/res/drawable/ic_launcher_background.xml" value="0.132" />
         <entry key="..\:/Users/User/AndroidStudioProjects/tubesprogmob/app/src/main/res/drawable/list_hewan.xml" value="0.1315" />
         <entry key="..\:/Users/User/AndroidStudioProjects/tubesprogmob/app/src/main/res/drawable/list_tumbuhan.xml" value="0.1315" />
-        <entry key="..\:/Users/User/AndroidStudioProjects/tubesprogmob/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/tubesprogmob/app/src/main/res/layout/activity_coelenterata.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/tubesprogmob/app/src/main/res/layout/activity_klasifikasi_hewan.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/tubesprogmob/app/src/main/res/layout/activity_klasifikasi_tumbuhan.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/tubesprogmob/app/src/main/res/layout/activity_klasifikasi_tumbuhan_paku.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/tubesprogmob/app/src/main/res/layout/activity_list_amphibi.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/tubesprogmob/app/src/main/res/layout/activity_list_arthropoda.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/tubesprogmob/app/src/main/res/layout/activity_list_aves.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/tubesprogmob/app/src/main/res/layout/activity_list_coelenterata.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/tubesprogmob/app/src/main/res/layout/activity_list_echinodermata.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/tubesprogmob/app/src/main/res/layout/activity_list_mamalia.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/tubesprogmob/app/src/main/res/layout/activity_list_mollusca.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/tubesprogmob/app/src/main/res/layout/activity_list_pisces.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/tubesprogmob/app/src/main/res/layout/activity_list_porifera.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/tubesprogmob/app/src/main/res/layout/activity_list_reptile.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/tubesprogmob/app/src/main/res/layout/activity_list_tumbuhan_berbiji.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/tubesprogmob/app/src/main/res/layout/activity_list_tumbuhan_lumut.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/tubesprogmob/app/src/main/res/layout/activity_list_tumbuhan_paku.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/tubesprogmob/app/src/main/res/layout/activity_list_vermes.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/tubesprogmob/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/tubesprogmob/app/src/main/res/layout/fragment_creature.xml" value="0.18" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/tubesprogmob/app/src/main/res/layout/fragment_quis.xml" value="0.19010416666666666" />
         <entry key="..\:/Users/User/AndroidStudioProjects/tubesprogmob/app/src/main/res/layout/item_grid.xml" value="0.14719202898550723" />
         <entry key="..\:/Users/User/AndroidStudioProjects/tubesprogmob/app/src/main/res/layout/item_recyleview.xml" value="0.25" />
         <entry key="..\:/Users/User/AndroidStudioProjects/tubesprogmob/app/src/main/res/layout/klasifikasi.xml" value="0.14719202898550723" />
-        <entry key="..\:/Users/User/AndroidStudioProjects/tubesprogmob/app/src/main/res/layout/klasifikasi_hewan.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/tubesprogmob/app/src/main/res/layout/klasifikasi_hewan.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/tubesprogmob/app/src/main/res/layout/klasifikasi_hewan_invertebrata.xml" value="0.2" />
         <entry key="..\:/Users/User/AndroidStudioProjects/tubesprogmob/app/src/main/res/layout/klasifikasi_tumbuhan.xml" value="0.22" />
-        <entry key="..\:/Users/User/AndroidStudioProjects/tubesprogmob/app/src/main/res/layout/list_hewan.xml" value="0.14719202898550723" />
-        <entry key="..\:/Users/User/AndroidStudioProjects/tubesprogmob/app/src/main/res/layout/list_tumbuhan.xml" value="0.14719202898550723" />
-        <entry key="..\:/Users/User/AndroidStudioProjects/tubesprogmob/app/src/main/res/layout/tampilan.xml" value="0.14719202898550723" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/tubesprogmob/app/src/main/res/layout/klasifikasihewan1.xml" value="0.18" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/tubesprogmob/app/src/main/res/layout/klasifikasihewanpertama.xml" value="0.14855072463768115" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/tubesprogmob/app/src/main/res/layout/list_hewan.xml" value="0.24375" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/tubesprogmob/app/src/main/res/layout/list_tumbuhan.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/tubesprogmob/app/src/main/res/layout/tampilan.xml" value="0.22" />
         <entry key="..\:/Users/User/AndroidStudioProjects/tubesprogmob/app/src/main/res/layout/tampilan_awal.xml" value="0.14719202898550723" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/tubesprogmob/app/src/main/res/menu/menu_bawah.xml" value="0.20416666666666666" />
       </map>
     </option>
   </component>
