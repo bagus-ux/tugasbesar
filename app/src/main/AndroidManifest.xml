@@ -25,6 +25,9 @@
             android:name=".list_coelenterata"
             android:exported="false" />
         <activity
+            android:name=".MainActivity2"
+            android:exported="false" />
+        <activity
             android:name=".list_porifera"
             android:exported="false" />
         <activity

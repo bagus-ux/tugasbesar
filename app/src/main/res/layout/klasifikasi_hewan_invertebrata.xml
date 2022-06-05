@@ -56,11 +56,8 @@
                     android:layout_width="match_parent"
                     android:layout_height="130dp"
                     android:layout_gravity="center_horizontal"
-<<<<<<< HEAD
                     android:background="@drawable/porifera">
-=======
                     android:background="@drawable/gajah">
->>>>>>> 0f9c01957da7db5fdc5dc56013c8f87bf64f7d3f
                 </ImageView>
 
                 <TextView
@@ -68,10 +65,7 @@
                     android:layout_height="38dp"
                     android:gravity="center_horizontal"
                     android:text="Porifera"
-<<<<<<< HEAD
                     android:textStyle="bold"
-=======
->>>>>>> 0f9c01957da7db5fdc5dc56013c8f87bf64f7d3f
                     android:textSize="20dp" />
             </LinearLayout>
 
@@ -99,11 +93,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="130dp"
                     android:layout_gravity="center_horizontal"
-<<<<<<< HEAD
                     android:background="@drawable/coeleneterata">
-=======
-                    android:background="@drawable/ular">
->>>>>>> 0f9c01957da7db5fdc5dc56013c8f87bf64f7d3f
                 </ImageView>
 
                 <TextView
@@ -111,10 +101,7 @@
                     android:layout_height="38dp"
                     android:gravity="center_horizontal"
                     android:text="Coelenterata"
-<<<<<<< HEAD
                     android:textStyle="bold"
-=======
->>>>>>> 0f9c01957da7db5fdc5dc56013c8f87bf64f7d3f
                     android:textSize="20dp" />
             </LinearLayout>
 
@@ -142,11 +129,8 @@
                     android:layout_width="match_parent"
                     android:layout_height="130dp"
                     android:layout_gravity="center_horizontal"
-<<<<<<< HEAD
                     android:background="@drawable/vermes">
-=======
                     android:background="@drawable/ikan">
->>>>>>> 0f9c01957da7db5fdc5dc56013c8f87bf64f7d3f
                 </ImageView>
 
                 <TextView
@@ -154,10 +138,7 @@
                     android:layout_height="38dp"
                     android:gravity="center_horizontal"
                     android:text="Vermes"
-<<<<<<< HEAD
                     android:textStyle="bold"
-=======
->>>>>>> 0f9c01957da7db5fdc5dc56013c8f87bf64f7d3f
                     android:textSize="20dp" />
             </LinearLayout>
 
@@ -186,21 +167,15 @@
                     android:layout_width="match_parent"
                     android:layout_height="130dp"
                     android:layout_gravity="center_horizontal"
-<<<<<<< HEAD
                     android:background="@drawable/arthopodra">
-=======
                     android:background="@drawable/burung">
->>>>>>> 0f9c01957da7db5fdc5dc56013c8f87bf64f7d3f
                 </ImageView>
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="38dp"
                     android:gravity="center_horizontal"
                     android:text="Arthropoda"
-<<<<<<< HEAD
                     android:textStyle="bold"
-=======
->>>>>>> 0f9c01957da7db5fdc5dc56013c8f87bf64f7d3f
                     android:textSize="20dp"/>
             </LinearLayout>
 
@@ -228,21 +203,15 @@
                     android:layout_width="match_parent"
                     android:layout_height="130dp"
                     android:layout_gravity="center"
-<<<<<<< HEAD
                     android:background="@drawable/mollusca">
-=======
                     android:background="@drawable/katak">
->>>>>>> 0f9c01957da7db5fdc5dc56013c8f87bf64f7d3f
                 </ImageView>
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="38dp"
                     android:gravity="center_horizontal"
                     android:text="Mollusca"
-<<<<<<< HEAD
                     android:textStyle="bold"
-=======
->>>>>>> 0f9c01957da7db5fdc5dc56013c8f87bf64f7d3f
                     android:textSize="20dp"/>
             </LinearLayout>
 
@@ -269,21 +238,15 @@
                     android:layout_width="match_parent"
                     android:layout_height="130dp"
                     android:layout_gravity="center"
-<<<<<<< HEAD
                     android:background="@drawable/star">
-=======
                     android:background="@drawable/katak">
->>>>>>> 0f9c01957da7db5fdc5dc56013c8f87bf64f7d3f
                 </ImageView>
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="38dp"
                     android:gravity="center_horizontal"
                     android:text="Echinodermata"
-<<<<<<< HEAD
                     android:textStyle="bold"
-=======
->>>>>>> 0f9c01957da7db5fdc5dc56013c8f87bf64f7d3f
                     android:textSize="20dp"/>
             </LinearLayout>
 

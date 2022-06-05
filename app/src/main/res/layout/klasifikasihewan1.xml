@@ -57,11 +57,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="200dp"
                     android:layout_gravity="center_horizontal"
-<<<<<<< HEAD
                     android:background="@drawable/invertebrata"></ImageView>
-=======
-                    android:background="@drawable/gajah"></ImageView>
->>>>>>> 0f9c01957da7db5fdc5dc56013c8f87bf64f7d3f
 
                 <TextView
                     android:layout_width="match_parent"
@@ -108,7 +104,6 @@
                     android:textSize="35dp"
                     android:fontFamily="@font/poppins"/>
             </LinearLayout>
-
         </androidx.cardview.widget.CardView>
 
     </GridLayout>

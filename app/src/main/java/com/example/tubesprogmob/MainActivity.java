@@ -6,26 +6,20 @@ import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentTransaction;
 
-<<<<<<< HEAD
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.MenuItem;
 import android.view.View;
-=======
 import android.os.Bundle;
 import android.view.MenuItem;
->>>>>>> 0f9c01957da7db5fdc5dc56013c8f87bf64f7d3f
 
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 import com.google.android.material.navigation.NavigationBarView;
 
 public class MainActivity extends AppCompatActivity {
     BottomNavigationView bNav;
-<<<<<<< HEAD
     BottomNavigationView bKuis;
 
-=======
->>>>>>> 0f9c01957da7db5fdc5dc56013c8f87bf64f7d3f
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -36,14 +30,10 @@ public class MainActivity extends AppCompatActivity {
 
         bNav = findViewById(R.id.btn_bawah);
         bNav.setSelectedItemId(R.id.creature);
-<<<<<<< HEAD
 
         bKuis = findViewById(R.id.btn_bawah);
         bKuis.setSelectedItemId(R.id.quis);
 
-
-=======
->>>>>>> 0f9c01957da7db5fdc5dc56013c8f87bf64f7d3f
         bNav.setOnItemSelectedListener(new NavigationBarView.OnItemSelectedListener() {
             @Override
             public boolean onNavigationItemSelected(@NonNull MenuItem item) {

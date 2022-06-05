@@ -8,9 +8,10 @@
     android:padding="12dp"
     android:background="@color/cardview_light_background">
     <ImageView
+        android:id="@+id/profiles"
         android:layout_width="100dp"
         android:layout_height="100dp"
-        android:padding="10dp"
+        android:padding="2dp"
         android:src="@drawable/hewan"
         tools:ignore="MissingConstraints" />
 
@@ -24,6 +25,7 @@
         tools:ignore="MissingConstraints">
 
         <TextView
+            android:id="@+id/names"
             android:layout_width="match_parent"
             android:layout_height="50dp"
             android:layout_gravity="center"
@@ -31,6 +33,7 @@
             android:text="tes"
             android:textSize="26dp"/>
         <TextView
+            android:id="@+id/keterangans"
             android:layout_width="match_parent"
             android:layout_height="30dp"
             android:text="keterangan"
