@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.tubesprogmob">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Tubesprogmob">
+        <activity
+            android:name=".list_echinodermata"
+            android:exported="false" />
+        <activity
+            android:name=".list_mollusca"
+            android:exported="false" />
+        <activity
+            android:name=".list_arthropoda"
+            android:exported="false" />
+        <activity
+            android:name=".list_vermes"
+            android:exported="false" />
+        <activity
+            android:name=".list_coelenterata"
+            android:exported="false" />
+        <activity
+            android:name=".list_porifera"
+            android:exported="false" />
+        <activity
+            android:name=".list_amphibi"
+            android:exported="false" />
+        <activity
+            android:name=".list_pisces"
+            android:exported="false" />
+        <activity
+            android:name=".list_aves"
+            android:exported="false" />
+        <activity
+            android:name=".list_reptile"
+            android:exported="false" />
+        <activity
+            android:name=".list_mamalia"
+            android:exported="false" />
+        <activity
+            android:name=".hewan_vertebrata"
+            android:exported="false" />
+        <activity
+            android:name=".hewan_invertebrata"
+            android:exported="false" />
+        <activity
+            android:name=".list_tumbuhan_berbiji"
+            android:exported="false" />
+        <activity
+            android:name=".list_tumbuhan_paku"
+            android:exported="false" />
+        <activity
+            android:name=".list_tumbuhan_lumut"
+            android:exported="false" />
+        <activity
+            android:name=".klasifikasi_tumbuhan"
+            android:exported="false" />
+        <activity
+            android:name=".klasifikasi_hewan"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>
